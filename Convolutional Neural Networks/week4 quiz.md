@@ -1,4 +1,4 @@
-## Week 2 quiz - Special applications: Face recognition & Neural style transfer
+## Week 4 quiz - Special applications: Face recognition & Neural style transfer
 
 1. Face verification requires comparing a new picture against one person’s face, whereas face recognition requires comparing a new picture against K person’s faces.
 
