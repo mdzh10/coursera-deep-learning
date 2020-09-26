@@ -16,7 +16,7 @@
 
 4. Which of the following is a correct definition of the triplet loss? Consider that α>0. (We encourage you to figure out the answer from first principles, rather than just refer to the lecture.)
 
-  > ```max(||f(A)−f(P)||2−||f(A)−f(N)||2+α,0)```
+  > ```max(||f(A)−f(P)||^2−||f(A)−f(N)||^2 +α,0)```
 
 
 5. Consider the following Siamese network architecture: The upper and lower neural networks have different input images, but have exactly the same parameters.
